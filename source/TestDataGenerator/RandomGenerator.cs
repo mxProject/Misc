@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Reactive.Linq;
 
-namespace WindowsFormsApp1
+namespace TestDataGenerator
 {
 
     /// <summary>
