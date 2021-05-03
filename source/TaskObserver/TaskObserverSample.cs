@@ -10,6 +10,7 @@ using System.Diagnostics;
 
 namespace mxProject.Tasks
 {
+
     internal class TaskObserverSample
     {
 
